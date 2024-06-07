@@ -1,0 +1,76 @@
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, sans-serif;
+}
+
+.banner {
+    background-image: url('capa.jpg');
+    width: 100%;
+    height: 680px;
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat; 
+    padding-top: 100px;
+}
+
+.hbanner {
+    background-color: #800000;
+    width: 300px;
+    padding: 5px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.hdoisbanner {
+    background-color: #b8860b;
+    width: 294px;
+    padding: 8px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.informacoes {
+    padding: 50px;
+    margin-left: 200px;
+}
+
+
+
+.imgmarvel {
+    background-image: url('img1.jpg');
+    height: 80vh;
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.sinopse {
+    padding: 50px;
+    text-align: justify;
+}
+
+.hsinopse {
+    margin-left: 200px;
+}
+
+.psinopse {
+    margin-left: 200px;
+    width: 990px;
+    font-size: 1.1em;
+    line-height: 1.5em;
+}
+
+button {
+margin-left: 190px;
+   
+    padding: 10px 20px;
+    background-color: #e50914;
+    color: white;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+
